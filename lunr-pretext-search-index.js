@@ -15568,7 +15568,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "D.2",
   "title": "By chapter",
-  "body": " By chapter  Most recent submissions for each chapter. Links open the corresponding PDF.   Chapter 1 — Preliminaries    Exercises 1-22:      Chapter 2 — Integers    Exercises 1-17 (except 7,8,13,14):      Chapter 3 — Groups    Exercises 1-27:     "
+  "body": " By chapter  Most recent submissions for each chapter. Links open the corresponding PDF.   Chapter 1 — Preliminaries    Exercises 1-22:      Chapter 2 — Integers    Exercises 1-17 (except 7,8,13,14):      Chapter 3 — Groups    Exercises 1-27:      Chapter 4 — Cyclic Groups    Exercises 1-21:     "
 },
 {
   "id": "submissions-chronological",
@@ -15577,7 +15577,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "D.3",
   "title": "Chronological log",
-  "body": " Chronological log  All submissions in reverse chronological order, including all versions.    2026-04-27 — — Ch. 3, exercises 1-27  2026-04-16 — — Ch. 2, adjustments to gcd approach in Exercise 15, and additional solutions to exercises  2026-04-16 — — Ch. 1, minor update to Exercise 21 solution  2026-04-07 — — Ch. 3, exercises 1-4, first attempt  2026-04-07 — — Ch. 2, exercises 1-7, 9, 10, 15, first attempt  2026-04-07 — — Ch. 1, exercises 1-22, first attempt    "
+  "body": " Chronological log  All submissions in reverse chronological order, including all versions.    2026-05-12 — — Ch. 4, exercises 1-21  2026-04-27 — — Ch. 3, exercises 1-27  2026-04-16 — — Ch. 2, adjustments to gcd approach in Exercise 15, and additional solutions to exercises  2026-04-16 — — Ch. 1, minor update to Exercise 21 solution  2026-04-07 — — Ch. 3, exercises 1-4, first attempt  2026-04-07 — — Ch. 2, exercises 1-7, 9, 10, 15, first attempt  2026-04-07 — — Ch. 1, exercises 1-22, first attempt    "
 },
 {
   "id": "backmatter-7",
