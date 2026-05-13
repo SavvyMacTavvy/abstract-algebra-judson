@@ -50,6 +50,15 @@
       </p>
     </subsection>
 
+    <subsection xml:id="submissions-chapter-04">
+      <title>Chapter 4 — Cyclic Groups</title>
+      <p>
+        <ul>
+          <li><p>Exercises 1-21: <url href="https://github.com/emactavi/abstract-algebra-judson/raw/master/answers/chapter-04/ch04-ex01-21-v1.pdf" visual="ch04-ex01-21-v1.pdf"/></p></li>
+        </ul>
+      </p>
+    </subsection>
+
   </section>
 
   <section xml:id="submissions-chronological">
@@ -59,6 +68,7 @@
     </p>
     <p>
       <ul>
+        <li><p>2026-05-12 — <url href="https://github.com/emactavi/abstract-algebra-judson/raw/master/answers/chapter-04/ch04-ex01-21-v1.pdf" visual="ch04-ex01-21-v1.pdf"/> — Ch. 4, exercises 1-21 </p></li>
         <li><p>2026-04-27 — <url href="https://github.com/emactavi/abstract-algebra-judson/raw/master/answers/chapter-03/ch03-ex01-27-v1.pdf" visual="ch03-ex01-27-v1.pdf"/> — Ch. 3, exercises 1-27 </p></li>
         <li><p>2026-04-16 — <url href="https://github.com/emactavi/abstract-algebra-judson/raw/master/answers/chapter-02/ch02-ex01-17-skip07-08-13-14-v2.pdf" visual="ch02-ex01-17-skip07-08-13-14-v2.pdf"/> — Ch. 2, adjustments to gcd approach in Exercise 15, and additional solutions to exercises</p></li>
         <li><p>2026-04-16 — <url href="https://github.com/emactavi/abstract-algebra-judson/raw/master/answers/chapter-01/ch01-ex01-22-v2.pdf" visual="ch01-ex01-22-v2.pdf"/> — Ch. 1, minor update to Exercise 21 solution</p></li>

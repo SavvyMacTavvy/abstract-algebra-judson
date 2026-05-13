@@ -1,6 +1,6 @@
 import math
 
-def sieve(n):
+def primes_and_coprimes(n):
     if n < 2:
         return [], []
 
@@ -39,7 +39,7 @@ def sieve(n):
 
 
 if __name__ == "__main__":
-    n = 30
-    primes, rel_prime = sieve(n)
+    n = 32
+    primes, rel_prime = primes_and_coprimes(n)
     print(f"Primes up to {n}: {primes}")
     print(f"Integers relatively prime to {n}: {rel_prime}")
